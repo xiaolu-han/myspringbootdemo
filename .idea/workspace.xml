@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0518ddc3-3d0b-40eb-9ee0-bf854e30a180" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="han" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="han" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="han" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="myspringboot: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="han" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="myspringboot: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="department: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="han" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="myspringboot: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="employee: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="han" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\IdeaProjects\myspringbootdemo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\dev\Repository" />
+        <option name="mavenHome" value="D:/dev/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\dev\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nb9dEpGEv3xOmHt6OrIB9lINiI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/core/src/main/java/com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.27206773" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo.myspringboot" />
+      <recent name="com.demo.myspringboot.mapper" />
+      <recent name="com.demo.myspringboot.entity" />
+      <recent name="com.demo.myspringboot.exception" />
+      <recent name="com.demo.myspringboot.config.mybatisplus" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\myspringbootdemo\core\src\main\resources" />
+      <recent name="D:\IdeaProjects\myspringbootdemo\core\src\main\java\com\demo\myspringboot\config\reids" />
+      <recent name="D:\IdeaProjects\myspringbootdemo\component\src\main\resources" />
+      <recent name="D:\IdeaProjects\myspringbootdemo\component\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MyspringbootApplication">
+    <configuration name="BigdecimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.base.bigdecimal.BigdecimalTest" />
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.base.bigdecimal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeRest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.myspringboot.mybatis.rest.EmployeeRest" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.myspringboot.mybatis.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloGC.jvm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.base.GC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise.base.GC" />
+      <option name="MAIN_CLASS_NAME" value="exercise.base.GC.HelloGC" />
+      <option name="METHOD_NAME" value="jvm" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-Xms1024m -Xmx1024m -XX:+PrintGCDetails" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest.addEmploy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.myspringboot.mybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.myspringboot.mybatis" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.myspringboot.mybatis.MapperTest" />
+      <option name="METHOD_NAME" value="addEmploy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduledTest.test_001" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.myspringboot.scheduled.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.myspringboot.scheduled" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.myspringboot.scheduled.ScheduledTest" />
+      <option name="METHOD_NAME" value="test_001" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyspringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.myspringboot.MyspringbootApplication" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintGCDetails -XX:+UseConcMarkSweepGC -Xms216m -Xmx216m -XX:MaxPermSize=50m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot03LoggingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-03-logging" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot03LoggingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DataMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-06-data-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot06DataMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot01CacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-01-cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cache.Springboot01CacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot02AmqpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-02-amqp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.amqp.Springboot02AmqpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BigdecimalTest" />
+      <item itemvalue="Application.EmployeeRest" />
+      <item itemvalue="JUnit.HelloGC.jvm" />
+      <item itemvalue="JUnit.MapperTest.addEmploy" />
+      <item itemvalue="JUnit.ScheduledTest.test_001" />
+      <item itemvalue="Spring Boot.MyspringbootApplication" />
+      <item itemvalue="Spring Boot.Springboot01CacheApplication" />
+      <item itemvalue="Spring Boot.SpringBoot06DataMybatisApplication" />
+      <item itemvalue="Spring Boot.Springboot02AmqpApplication" />
+      <item itemvalue="Spring Boot.SpringBoot03LoggingApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmployeeRest" />
+        <item itemvalue="JUnit.ScheduledTest.test_001" />
+        <item itemvalue="JUnit.MapperTest.addEmploy" />
+        <item itemvalue="JUnit.HelloGC.jvm" />
+        <item itemvalue="Application.BigdecimalTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0518ddc3-3d0b-40eb-9ee0-bf854e30a180" name="默认更改列表" comment="" />
+      <created>1611648008662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611648008662</updated>
+      <workItem from="1611648011469" duration="7373000" />
+      <workItem from="1612000112315" duration="7189000" />
+      <workItem from="1612418845572" duration="15178000" />
+      <workItem from="1612489954122" duration="47000" />
+      <workItem from="1612490027414" duration="12195000" />
+      <workItem from="1612667267949" duration="1750000" />
+      <workItem from="1615644498205" duration="599000" />
+      <workItem from="1616847204394" duration="2128000" />
+      <workItem from="1616851473325" duration="15277000" />
+      <workItem from="1616918346679" duration="11000" />
+      <workItem from="1616919130597" duration="5447000" />
+      <workItem from="1617510229686" duration="32418000" />
+      <workItem from="1617598566751" duration="15134000" />
+      <workItem from="1618034220843" duration="3760000" />
+      <workItem from="1618128792008" duration="4582000" />
+      <workItem from="1618325536340" duration="14830000" />
+      <workItem from="1618629324188" duration="13248000" />
+      <workItem from="1621060151211" duration="2255000" />
+      <workItem from="1621260383362" duration="6000" />
+      <workItem from="1621316656231" duration="2947000" />
+      <workItem from="1621644242635" duration="1951000" />
+      <workItem from="1622280289659" duration="1243000" />
+      <workItem from="1622338411279" duration="299000" />
+      <workItem from="1622515594348" duration="599000" />
+      <workItem from="1622519018128" duration="6509000" />
+      <workItem from="1622698363428" duration="643000" />
+      <workItem from="1622702732362" duration="2861000" />
+      <workItem from="1622940261439" duration="7860000" />
+      <workItem from="1623312946019" duration="906000" />
+      <workItem from="1624111096329" duration="9167000" />
+      <workItem from="1624327288251" duration="92000" />
+      <workItem from="1627777922681" duration="747000" />
+      <workItem from="1628490638300" duration="641000" />
+      <workItem from="1630479338160" duration="605000" />
+      <workItem from="1636373368235" duration="3339000" />
+      <workItem from="1636794572650" duration="1199000" />
+      <workItem from="1636795797456" duration="1682000" />
+      <workItem from="1636797511098" duration="647000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1636795288183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636795288183</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="254" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1636373400022">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="254" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1636373400022" />
+    <state x="399" y="11" key="CommitChangelistDialog2" timestamp="1636795275832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="399" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1636795275832" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1636795393827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1636795393827" />
+    <state x="598" y="308" key="Github.ShareDialog" timestamp="1636797210681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="598" y="308" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1636797210681" />
+    <state x="310" y="0" width="992" height="824" key="SettingsEditor" timestamp="1636797129579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="310" y="0" width="992" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1636797129579" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1636800108001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1636800108001" />
+    <state x="519" y="150" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1636794974514">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="519" y="150" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824@0.0.1536.824" timestamp="1636794974514" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/component/src/test/java/com/demo/myspringboot/SpringBootComponentTests.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/test/java/com/demo/myspringboot/mybatis/MapperTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/test/java/com/demo/myspringboot/asyn/AsynTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/test/java/com/demo/myspringboot/asyn/AsynTest.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
