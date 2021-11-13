@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="core" />
+        <module name="common" />
+        <module name="component" />
+        <module name="spring-boot-06-data-mybatis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="exercise" target="1.8" />
+      <module name="spring-boot-03-logging" target="1.8" />
+      <module name="spring-boot-06-data-mybatis" target="1.8" />
+      <module name="springboot-01-cache" target="1.8" />
+      <module name="springboot-02-amqp" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
